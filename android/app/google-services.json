@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "891126999839",
+    "project_id": "thefarmer-e5a48",
+    "storage_bucket": "thefarmer-e5a48.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:891126999839:android:3eb23b4033fc152b7b5e2a",
+        "android_client_info": {
+          "package_name": "com.example.thefarmer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "891126999839-96ipahqctn86fku0iv590o7se2ah6mqd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.thefarmer",
+            "certificate_hash": "3b283789e90c0cfafd9beae1ca598d66372935a3"
+          }
+        },
+        {
+          "client_id": "891126999839-lf2qbrj7dks82hv3s1hpvvoivigg55f6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRU-OHuW8Fs3koBE7W2XzE1kAnSqbYXws"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "891126999839-lf2qbrj7dks82hv3s1hpvvoivigg55f6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
